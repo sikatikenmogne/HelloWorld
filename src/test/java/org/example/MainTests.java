@@ -5,7 +5,7 @@ import java.io.PrintStream;
 
 import static org.junit.Assert.*;
 
-public class MainTest {
+public class MainTests {
 
     @org.junit.Test
     public void main2() {
